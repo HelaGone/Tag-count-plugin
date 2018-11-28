@@ -1,7 +1,7 @@
 <?php
 /*
  Plugin Name: Tag Count
- Plugin URI:   https://developer.wordpress.org/plugins/the-basics/
+ Plugin URI:   git@github.com:HelaGone/Tag-count-plugin.git
  Description:  Endpoint para obtener todos los tags en el sitio
  Version:      1.0.0
  Author:       Holkan Luna
