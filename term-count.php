@@ -1,7 +1,7 @@
 <?php
 /*
- Plugin Name: Term Taxonomy Count
- Plugin URI:   git@github.com:HelaGone/Tag-count-plugin.git
+ Plugin Name:  Term Taxonomy Count
+ Plugin URI:   https://github.com/HelaGone/Term-taxonomy-count-plugin
  Description:  Endpoint para obtener todos los términos de una taxonomía en el sitio
  Version:      1.0.0
  Author:       Holkan Luna
